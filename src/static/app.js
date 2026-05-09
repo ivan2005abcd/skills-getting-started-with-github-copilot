@@ -152,3 +152,4 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // Updated with participant features
+ 
