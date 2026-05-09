@@ -151,3 +151,4 @@ document.addEventListener("DOMContentLoaded", () => {
   fetchActivities();
 });
 
+// Updated with participant features
